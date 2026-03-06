@@ -1,2 +1,2 @@
 # javascript-tutorial
-This is my frist Repository :Author- Shivani Takalkar
+This is my frist Git Repository :Author- Shivani Takalkar
